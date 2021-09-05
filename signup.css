@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    font-family: "Encode sans SC",sans-serif;
+}
+body{
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    padding: 10px;
+}
+.container-fluid{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr repeat(10, minmax(min-content max-content));
+    grid-gap: 10px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 10px 15px  #DCD8E9 ;
+   
+}
+.item{
+    font-size: 2rem;
+}
+.item1{
+    display: grid;
+    background-color: white;
+    justify-items: center;
+    align-items: center;
+
+}
+.item2{
+     display: grid;
+    background-color: white;
+     justify-items: center;
+    align-items: center;
+
+}
+.item3{
+     display: grid;
+    background-color: white;
+   justify-items: center;
+    align-items: center;
+    
+}
+.item4{
+     display: grid;
+    background-color:white;
+    justify-items: center;
+    align-items: center;
+}
+.item5{
+     display: grid;
+    background-color: white;
+     justify-items: center;
+    align-items: center;
+
+}
+.item6{
+     display: grid;
+    background-color: white;
+    justify-items: center;
+    align-items: center;
+}
+
+.item7{
+     display: grid;
+    background-color: white;
+    justify-items: center;
+    align-items: center;
+    justify-self: center;
+}
+.item8{
+     display: grid;
+    background-color: white;
+    justify-items: center;
+    align-items: center;
+    justify-self: center;
+}
+.item9{
+     display: grid;
+    background-color: white;
+    justify-items: center;
+    align-items: center;
+    justify-self: center;
+}
+.item10{
+     display: grid;
+    background-color: white;
+    justify-items: center;
+    align-items: center;
+    justify-self: center;
+}
+.item11{
+     display: grid;
+    background-color: white;
+    justify-items: center;
+    align-items: center;
+    justify-self: center;
+}
+.item12{
+     display: grid;
+    background-color: white;
+    justify-items: center;
+    align-items: center;
+    justify-self: center;
+}
